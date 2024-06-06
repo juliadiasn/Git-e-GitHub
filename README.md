@@ -6,9 +6,10 @@
 ### Comandos:
 
 **Ajuda nos comandos**
-`git help {comando}`
-`git {comando} --help`
-`man git- {comando}`
+
+`git help {comando}`\
+`git {comando} --help`\
+`man git- {comando}`\
 
 
 **Definir o seu nome de usuário e endereço de e-mail**
