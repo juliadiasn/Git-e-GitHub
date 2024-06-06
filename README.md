@@ -25,6 +25,7 @@ git config --global user.email johndoe@example.com
 #### Criando Projeto
 
 **Criando repositório de um diretório já existente**
+
 `git init`
 
 **Primeira versão - Versionamento do arquivos existentes**
@@ -35,5 +36,22 @@ git config --global user.email johndoe@example.com
 
 **Clonando repositório**
 
+`git clone [url]`
 
+#### Básico
 
+**Monitorar novo arquivo**
+
+`git add {arquivo}`
+
+**Verificando status**
+
+`git status`
+
+**Verificando mudanças**
+
+`git diff`\
+- ver o que selecionou que irá no seu próximo commit
+`git diff --cached`
+
+****
