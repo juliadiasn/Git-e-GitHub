@@ -7,6 +7,7 @@
 **Definir o seu nome de usuário e endereço de e-mail**
 
 `git config`
+
 Ex:
 ~~~
 git config --global user.name "John Doe"
