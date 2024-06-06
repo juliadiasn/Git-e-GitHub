@@ -4,6 +4,13 @@
 ## Aprendendo Git 
 
 ### Comandos:
+
+**Ajuda nos comandos**
+`git help {comando}`
+`git {comando} --help`
+`man git- {comando}`
+
+
 **Definir o seu nome de usuário e endereço de e-mail**
 
 `git config`
